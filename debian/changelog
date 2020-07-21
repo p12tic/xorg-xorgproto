@@ -1,3 +1,10 @@
+xorgproto (2020.1-1gestures1) focal; urgency=medium
+
+  * New upstream release.
+  * Implement touch gesture support
+
+ -- Povilas Kanapickas <povilas@radix.lt>  Mon, 09 Mar 2020 14:10:51 +0200
+
 xorgproto (2019.2-1ubuntu1) focal; urgency=medium
 
   * add-fullscreen.diff: Add XF86XK_FullScreen to keysyms.
